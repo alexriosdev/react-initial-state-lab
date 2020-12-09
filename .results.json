@@ -5,9 +5,9 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2020-12-09T23:26:03.728Z",
-    "end": "2020-12-09T23:26:03.753Z",
-    "duration": 25
+    "start": "2020-12-09T23:32:55.296Z",
+    "end": "2020-12-09T23:32:55.323Z",
+    "duration": 27
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "render the correct text",
       "fullTitle": "<ImageSlider /> render the correct text",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -59,7 +59,7 @@
     {
       "title": "render the correct text",
       "fullTitle": "<ImageSlider /> render the correct text",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
